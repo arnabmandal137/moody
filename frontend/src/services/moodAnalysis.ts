@@ -1,5 +1,5 @@
 import * as faceapi from 'face-api.js';
-import { MoodAnalysis } from '../types';
+import type { MoodAnalysis } from '../types';
 
 let modelsLoaded = false;
 
